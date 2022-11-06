@@ -26,3 +26,5 @@ Best Security practices for anyone cautious about their privacy to remain secure
 - A majority of VPN's actually do track you almost all the time.
 - They claim that they do not keep any logs yet some of them do keep logs and even submit them to law enforcement if they are summoned to do so.
 - I will talk about how you can set up one and be able to connect it from anywhere.
+
+* What we are going to set up here is a service that combines a VPN, a DNS service and an AD blocker all in one.
