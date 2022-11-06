@@ -9,5 +9,5 @@ Best Security practices for anyone cautious about their privacy to remain secure
 
 ### Setting up DuckDuckGo
 
-[x] After installing the app, perform the following changes.
-[x] Enable `App Tracking Protection` globally, this will block tracking requests on your apps.
+- [x] After installing the app, perform the following changes.
+- [x] Enable `App Tracking Protection` globally, this will block tracking requests on your apps.
