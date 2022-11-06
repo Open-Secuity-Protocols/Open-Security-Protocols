@@ -55,3 +55,11 @@ Best Security practices for anyone cautious about their privacy to remain secure
 ```
 - [x] Once done, proceed to install `Docker` and `Docker Compose`.
 - [x] You should follow the guide here to do that [Docker](https://docs.docker.com/compose/install/linux/).
+- [x] To make things easier, we are going to use an already existing packaged docker file containing all the three services.
+
+---
+
+### Installing the tools
+---
+
+- [x] The packaged container is called `wirehole`. A combination of `wireguard`, `unbound` and `pihole`.
