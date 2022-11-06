@@ -16,4 +16,11 @@ Best Security practices for anyone cautious about their privacy to remain secure
 - [x] Enable delete history and cookies on app closed.
 - [x] Set up your `@duck.com` email address to mask you real email addresses, this will remove trackers that are normally added to your emails. Emails will be sent and received with your actual email.
 - [x] Disable search suggestions if you hate it.
+
 ---
+
+### VPN and Ad Blocking
+---
+
+- For the case of using a `VPN`, I strongly condemn using a VPN that you don't own, this means that you need to run your own `private VPN` that you have control over.
+- I will talk about how you can set up one and be able to connect it from anywhere.
