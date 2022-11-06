@@ -27,6 +27,7 @@ Best Security practices for anyone cautious about their privacy to remain secure
 - They claim that they do not keep any logs yet some of them do keep logs and even submit them to law enforcement if they are summoned to do so.
 - I will talk about how you can set up one and be able to connect it from anywhere.
 - What we are going to set up here is a service that combines a `VPN`, a `DNS service` and an `AD blocker` all in one.
+- This will be a bit technical but its worth it.
 
 ---
 
@@ -34,4 +35,9 @@ Best Security practices for anyone cautious about their privacy to remain secure
 ---
 
 - [x] You first need to get a `virtual machine`, preferably on any Cloud provider of your choice.
-- You don't need to pay for the machine since a majority of the providers always have services that are free forever. In this case, we will use `Oracle Cloud`.
+- [x] You don't need to pay for the machine since a majority of the providers always have services that are free forever. In this case, we will use `Oracle Cloud`.
+- [x] Sign Up on the platform.
+- [x] Select a region where you want it to be provisioned then proceed to spin up a virtual machine that is `free forever`.
+- [x] This will come with `1GB RAM` and `1 CPU`. This should be enough for personal use.
+- [x] Choose `Ubuntu` as your OS since it easier to set up on this one.
+- [x] Ensure that you have generate an `SSH Public key and Private key pair` then add the public key during the set up process.
