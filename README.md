@@ -84,4 +84,8 @@ Best Security practices for anyone cautious about their privacy to remain secure
 ```bash
     sudo docker logs <wirehole-id>
 ```
-- [x] You should be able to see a `QR Code`
+- [x] You should be able to see a `QR Code`.
+- [x] With this QR Code, you should be able to connect to this service from your mobile phone.
+- [x] To connect to it, simply install the `Wireguard` app then scan the QR Code.
+- [x] You are connected to the service successfully.
+- [x] Now you are using your own `VPN` and `AD Blocker`.
