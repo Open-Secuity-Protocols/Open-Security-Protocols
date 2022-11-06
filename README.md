@@ -51,5 +51,4 @@ Best Security practices for anyone cautious about their privacy to remain secure
     sudo apt update && sudo apt upgrade
 ```
 - [x] Once done, proceed to install `Docker` and `Docker Compose`.
-- [x] You should follow the guide here to do that. 
-- [x] [Docker](https://docs.docker.com/compose/install/linux/).
+- [x] You should follow the guide here to do that [Docker](https://docs.docker.com/compose/install/linux/).
