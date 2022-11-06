@@ -42,6 +42,11 @@ Best Security practices for anyone cautious about their privacy to remain secure
 - [x] Choose `Ubuntu` as your OS since it easier to set up on this one.
 - [x] Ensure that you have generated an `SSH Public key and Private key pair` then add the public key during the set up process.
 - [x] Once it has been provisioned, grab its IP address then SSH into it.
+- [x] Should be something like this.
 ```bash
     ssh ubuntu@<machine-ip-adddress>
+```
+- [x] Go ahead and update packages.
+```bash
+    sudo apt update && sudo apt upgrade
 ```
