@@ -22,5 +22,5 @@ Best Security practices for anyone cautious about their privacy to remain secure
 ### VPN and Ad Blocking
 ---
 
-- For the case of using a `VPN`, I strongly condemn using a VPN that you don't own, this means that you need to run your own `private VPN` that you have control over.
+- For the case of using a VPN, I strongly condemn using a VPN that you don't own, this means that you need to run your own `private VPN` that you have control over.
 - I will talk about how you can set up one and be able to connect it from anywhere.
