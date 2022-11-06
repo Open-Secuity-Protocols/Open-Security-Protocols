@@ -117,6 +117,6 @@ Best Security practices for anyone cautious about their privacy to remain secure
 - [x] `Decentraleyes` which protects you from tracking via free CDNs.
 - [x] `DuckDuckGo Privacy Essentials` which prevents tracking as well as grade sites in terms of their privacy practices.
 - [x] `I don't care about cookies` which blocks pop-ups from sites asking you to accept cookies.
-- [x] `User-Agent Switcher and Manager` which allows you to fake the identity of your machine including its `Operating System` as well as the `browser` itself.
+- [x] `User-Agent Switcher and Manager` which allows you to fake the identity of your machine including its Operating System as well as the browser itself.
 
 ---
