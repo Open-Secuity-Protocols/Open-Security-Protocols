@@ -40,4 +40,8 @@ Best Security practices for anyone cautious about their privacy to remain secure
 - [x] Select a region where you want it to be provisioned then proceed to spin up a virtual machine that is `free forever`.
 - [x] This will come with `1GB RAM` and `1 CPU`. This should be enough for personal use.
 - [x] Choose `Ubuntu` as your OS since it easier to set up on this one.
-- [x] Ensure that you have generate an `SSH Public key and Private key pair` then add the public key during the set up process.
+- [x] Ensure that you have generated an `SSH Public key and Private key pair` then add the public key during the set up process.
+- [x] Once it has been provisioned, grab its IP address then SSH into it.
+```bash
+    ssh ubuntu@<machine-ip-adddress>
+```
