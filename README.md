@@ -99,8 +99,8 @@ Best Security practices for anyone cautious about their privacy to remain secure
 ### Browser Security
 
 - There are a couple of multiple browsers that are secure that you can use.
-- [Librewolf](https://librewolf.net/), a firefox fork that has been stripped down.
-- [Brave](https://brave.com/), a chromium based browser that has been stripped down.
+- [Librewolf](https://librewolf.net/), a Firefox fork that has been stripped down.
+- [Brave](https://brave.com/), a Chromium based browser that has been stripped down.
 - I will focus majorly on `Librewolf`.
 
 ### Setting up Librewolf
