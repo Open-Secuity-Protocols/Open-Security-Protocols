@@ -33,3 +33,5 @@ Best Security practices for anyone cautious about their privacy to remain secure
 ### Setting up the Service
 ---
 
+- [x] You first need to get a `virtual machine`, preferably on any Cloud provider of your choice.
+- You don't need to pay for the machine since a majority of the providers always have services that are free forever. In this case, we will use `Oracle Cloud`.
