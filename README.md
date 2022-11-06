@@ -89,3 +89,10 @@ Best Security practices for anyone cautious about their privacy to remain secure
 - [x] To connect to it, simply install the `Wireguard` app then scan the QR Code.
 - [x] You are connected to the service successfully.
 - [x] Now you are using your own `VPN` and `AD Blocker`.
+
+---
+
+### PC and Laptop Security
+---
+
+- Before setting up security measures on your `PC or Laptop`, I recommend that you be running `Linux` as your primary, at least since its a `little more secure` than your regular `Windows` or `Mac` OS.
