@@ -92,7 +92,20 @@ Best Security practices for anyone cautious about their privacy to remain secure
 
 ---
 
-### PC and Laptop Security
----
+## PC and Laptop Security
 
 - Before setting up security measures on your `PC or Laptop`, I recommend that you be running `Linux` as your primary, at least since its a little more secure than your regular `Windows` or `Mac` OS.
+
+### Browser Security
+
+- There are a couple of multiple browsers that are secure that you can use.
+- [Librewolf](https://librewolf.net/).
+- [Brave](https://brave.com/).
+- I will focus majorly on `Librewolf`.
+
+### Setting up Librewolf
+---
+
+
+
+---
