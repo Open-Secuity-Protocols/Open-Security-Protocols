@@ -6,7 +6,7 @@ Best Security practices for anyone cautious about their privacy to remain secure
 
 - On mobile, don't use proprietary search engines such as `Google Chrome`.
 - Instead, you shoud install and use `DuckDuckGo` as your primary search engine.
-- It's available in all mobile platforms.
+- It's available on all mobile platforms.
 
 ### Setting up DuckDuckGo
 ---
