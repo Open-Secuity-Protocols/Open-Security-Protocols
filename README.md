@@ -44,6 +44,7 @@ Best Security practices for anyone cautious about their privacy to remain secure
 ```bash
     ssh-keygen
 ```
+- [x] On networking, open port `51820` for `UDP`.
 - [x] Once it has been provisioned, grab its IP address then SSH into it.
 - [x] Should be something like this.
 ```bash
@@ -63,3 +64,24 @@ Best Security practices for anyone cautious about their privacy to remain secure
 ---
 
 - [x] The packaged container is called `wirehole`. A combination of `wireguard`, `unbound` and `pihole`.
+- [x] To install it, do the following.
+```bash
+    git clone https://github.com/IAmStoxe/wirehole.git
+```
+- [x] Go to the folder containing Wirehole.
+```bash
+    cd wirehole
+```
+- [x] Start the service.
+```bash
+    sudo docker compose up -d
+```
+- [x] Once the service has started, get the id of wirehole by running.
+```bash
+    sudo docker ps
+```
+- [x] Once you have obtained its id, then get its logs.
+```bash
+    sudo docker logs <wirehole-id>
+```
+- [x] You should be able to see a `QR Code`
