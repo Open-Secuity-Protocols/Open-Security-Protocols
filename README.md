@@ -106,6 +106,6 @@ Best Security practices for anyone cautious about their privacy to remain secure
 ### Setting up Librewolf
 ---
 
-
+- [x] After installing Librewolf, we need to do some tweaks to further harden security aside from its defaults.
 
 ---
