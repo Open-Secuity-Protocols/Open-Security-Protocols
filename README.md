@@ -52,4 +52,4 @@ Best Security practices for anyone cautious about their privacy to remain secure
 ```
 - [x] Once done, proceed to install `Docker` and `Docker Compose`.
 - [x] You should follow the guide here to do that. 
-- [x] [Docker]("https://docs.docker.com/compose/install/linux/").
+- [x] [Docker](https://docs.docker.com/compose/install/linux/).
