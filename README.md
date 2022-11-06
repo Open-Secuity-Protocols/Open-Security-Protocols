@@ -41,6 +41,9 @@ Best Security practices for anyone cautious about their privacy to remain secure
 - [x] This will come with `1GB RAM` and `1 CPU`. This should be enough for personal use.
 - [x] Choose `Ubuntu` as your OS since it easier to set up on this one.
 - [x] Ensure that you have generated an `SSH Public key and Private key pair` then add the public key during the set up process.
+```bash
+    ssh-keygen
+```
 - [x] Once it has been provisioned, grab its IP address then SSH into it.
 - [x] Should be something like this.
 ```bash
