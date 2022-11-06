@@ -124,7 +124,7 @@ Best Security practices for anyone cautious about their privacy to remain secure
 ### Using LibreWolf
 ---
 
-- [x] LibreWolf diasble `cross-site cookies` by default but you can go further than this.
+- [x] LibreWolf diasbles `cross-site cookies` by default but you can go further than this.
 - [x] When browing sites that need you to login, such as Youtube or any other, consider open them up in `container tabs` so that whatever you do is contained in that tab alone and won't allow possible scripts to read or access what you are doing in other tabs.
 
 ---
