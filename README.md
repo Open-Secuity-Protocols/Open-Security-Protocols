@@ -99,13 +99,24 @@ Best Security practices for anyone cautious about their privacy to remain secure
 ### Browser Security
 
 - There are a couple of multiple browsers that are secure that you can use.
-- [Librewolf](https://librewolf.net/), a Firefox fork that has been stripped down.
+- [LibreWolf](https://librewolf.net/), a Firefox fork that has been stripped down.
 - [Brave](https://brave.com/), a Chromium based browser that has been stripped down.
-- I will focus majorly on `Librewolf`.
+- I will focus majorly on `LibreWolf`.
 
-### Setting up Librewolf
+### Setting up LibreWolf
 ---
 
-- [x] After installing Librewolf, we need to do some tweaks to further harden security aside from its defaults.
+- [x] After installing LibreWolf, we need to do some tweaks to further harden security aside from its defaults.
+- [x] In settings, disable `Remember browsing and download history`.
+- [x] Enable `Clear history when LibreWolf` closes.
+- [x] Diable `browsing_history` on Address Bar.
+- [x] Once you have set up all that, you will want to install the following extensions.
+- [x] `uBlock Origin` is already installed by default, which `blocks ADS` everywher.
+- [x] `Canvas Blocker` which blocks sites from trying to fingerprint your device.
+- [x] `Clear URLS` which removes tracking elements from Urls.
+- [x] `Decentraleyes` which protects you from tracking via free CDNs.
+- [x] `DuckDuckGo Privacy Essentials` which prevents tracking as well as grade sites in terms of their privacy practices.
+- [x] `I don't care about cookies` which blocks pop-ups from sites asking you to accept cookies.
+- [x] `User-Agent Switcher and Manager` which allows you to fake the identity of your machine including its `Operating System` as well as the `browser` itself.
 
 ---
