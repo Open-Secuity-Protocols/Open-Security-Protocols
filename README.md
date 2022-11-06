@@ -47,7 +47,7 @@ Best Security practices for anyone cautious about their privacy to remain secure
 - [x] Once it has been provisioned, grab its IP address then SSH into it.
 - [x] Should be something like this.
 ```bash
-    ssh ubuntu@<machine-ip-adddress>
+    ssh ubuntu@<machine-ip-address>
 ```
 - [x] Go ahead and update packages.
 ```bash
